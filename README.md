@@ -3,7 +3,7 @@
 <h2>
   
 <big>
-- Note: This is in development and currently unfinished.
+Note: This is in development and currently unfinished.
 </big>
   
 </h2>
