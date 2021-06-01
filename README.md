@@ -1,13 +1,7 @@
 # say.py
-
-<h2>
+ 
+**🟥🟥🟥  Note: This is in development and currently unfinished.  🟥🟥🟥**
   
-<big>
-Note: This is in development and currently unfinished.
-</big>
-  
-</h2>
-
 An distributed speech synthesis network for macOS. This hosts a mini-network which allows you to push out a text-to-speech utterances to many computers at once, using [`say`](https://ss64.com/osx/say.html).
 
 ## Types
